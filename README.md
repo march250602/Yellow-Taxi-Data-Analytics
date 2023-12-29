@@ -1,4 +1,4 @@
-# Yellow Taxi Data Analytics | Modern Data Engineering GCP Project
+# Yellow Taxi Data Analytics Data Engineering GCP Project
 
 ## Introduction
 
@@ -9,7 +9,7 @@ The goal of this project is to perform data analytics on Yellow Taxi data using 
 
 
 ## Technology Used
-- Programming Language - Python
+Programming Language -> Python
 
 Google Cloud Platform
 1. Google Storage
