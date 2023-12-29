@@ -18,9 +18,11 @@ Google Cloud Platform
 4. Looker Studio
 
 Modern Data Pipeine Tool - https://www.mage.ai/
+## Dataset Used
 
+Here is the dataset used in the project :
 https://github.com/march250602/Yellow-Taxi-Data-Analytics/blob/main/data/taxi%2B_zone_lookup.csv
-
+https://github.com/march250602/Yellow-Taxi-Data-Analytics/blob/main/data/taxi_data.csv
 
 ## Data Model
 <img src="data_model.jpeg">
