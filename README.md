@@ -5,7 +5,8 @@
 The goal of this project is to perform data analytics on Yellow Taxi data using various tools and technologies, including GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
 
 ## Architecture 
-<img src="architecture.jpg">
+![image](https://github.com/march250602/Yellow-Taxi-Data-Analytics/assets/68798300/497e6289-3bec-4f84-8531-a59db1fce6c8)
+
 
 ## Technology Used
 - Programming Language - Python
