@@ -19,6 +19,7 @@ Google Cloud Platform
 
 Modern Data Pipeine Tool - https://www.mage.ai/
 
+https://github.com/march250602/Yellow-Taxi-Data-Analytics/blob/main/data/taxi%2B_zone_lookup.csv
 
 
 ## Data Model
