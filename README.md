@@ -27,3 +27,4 @@ https://github.com/march250602/Yellow-Taxi-Data-Analytics/blob/main/data/taxi_da
 ## Data Model
 <img src="data_model.jpeg">
 
+<img width="427" alt="image" src="https://github.com/march250602/Yellow-Taxi-Data-Analytics/assets/68798300/709aa8a0-14a3-49fc-8194-18d9ebe29f58">
