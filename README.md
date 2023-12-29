@@ -25,6 +25,7 @@ https://github.com/march250602/Yellow-Taxi-Data-Analytics/blob/main/data/taxi%2B
 https://github.com/march250602/Yellow-Taxi-Data-Analytics/blob/main/data/taxi_data.csv
 
 ## Data Model
-[<img src="data_model.jpeg">](https://lucid.app/lucidchart/d61a3279-0e54-407f-99a9-619194abf7c8/edit?viewport_loc=-488%2C-156%2C3005%2C1278%2C0_0&invitationId=inv_03b4471b-835f-49fd-9c38-8648c8e57051)https://lucid.app/lucidchart/d61a3279-0e54-407f-99a9-619194abf7c8/edit?viewport_loc=-488%2C-156%2C3005%2C1278%2C0_0&invitationId=inv_03b4471b-835f-49fd-9c38-8648c8e57051
+![Blank diagram (1)](https://github.com/march250602/Yellow-Taxi-Data-Analytics/assets/68798300/06ea10bf-8485-4a6a-b28e-84c5323a1bb4)
 
+## Dash Board
 <img width="427" alt="image" src="https://github.com/march250602/Yellow-Taxi-Data-Analytics/assets/68798300/709aa8a0-14a3-49fc-8194-18d9ebe29f58">
